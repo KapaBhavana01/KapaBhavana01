@@ -1,5 +1,4 @@
 ![image](https://github.com/KapaBhavana01/KapaBhavana01/assets/163066152/9375e06a-911d-426c-a42b-b3c602e25945)
-
 - 👋 Hi! I'm Bhavana Kapa 
 - 🎓 Master's student at the University of Cincinnati. 
 - ❤️‍🔥 I'm passionate about machine learning and have a keen interest in delving deeper into the realm of artificial intelligence. 
@@ -16,7 +15,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>
 </div>
 
 - Tools & Libraries
